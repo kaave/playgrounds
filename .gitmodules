@@ -1,0 +1,12 @@
+[submodule "python"]
+	path = python
+	url = git@github.com:kaave/playground-python.git
+[submodule "ruby"]
+	path = ruby
+	url = git@github.com:kaave/playground-ruby.git
+[submodule "typescript"]
+	path = typescript
+	url = git@github.com:kaave/playground-typescript.git
+[submodule "javascript"]
+	path = javascript
+	url = git@github.com:kaave/playground-javascript.git
