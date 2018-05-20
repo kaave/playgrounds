@@ -13,3 +13,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = git@github.com:kaave/playground-frontend.git
+[submodule "pixi-js"]
+	path = pixi-js
+	url = git@github.com:kaave/playground-pixi-js.git
