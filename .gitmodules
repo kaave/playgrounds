@@ -16,3 +16,6 @@
 [submodule "pixi-js"]
 	path = pixi-js
 	url = git@github.com:kaave/playground-pixi-js.git
+[submodule "webgl"]
+	path = webgl
+	url = git@github.com:kaave/playground-webgl.git
