@@ -19,3 +19,6 @@
 [submodule "webgl"]
 	path = webgl
 	url = git@github.com:kaave/playground-webgl.git
+[submodule "universal-react"]
+	path = universal-react
+	url = git@github.com:kaave/playground-universal-react.git
