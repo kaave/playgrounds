@@ -22,3 +22,6 @@
 [submodule "universal-react"]
 	path = universal-react
 	url = git@github.com:kaave/playground-universal-react.git
+[submodule "scala"]
+	path = scala
+	url = git@github.com:kaave/playground-scala.git
