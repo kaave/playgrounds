@@ -25,3 +25,6 @@
 [submodule "scala"]
 	path = scala
 	url = git@github.com:kaave/playground-scala.git
+[submodule "svg"]
+	path = svg
+	url = git@github.com:kaave/playground-svg
