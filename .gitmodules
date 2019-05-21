@@ -28,3 +28,6 @@
 [submodule "svg"]
 	path = svg
 	url = git@github.com:kaave/playground-svg
+[submodule "slide"]
+	path = slide
+	url = git@github.com:kaave/playground-slide.git
