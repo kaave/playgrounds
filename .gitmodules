@@ -31,3 +31,6 @@
 [submodule "slide"]
 	path = slide
 	url = git@github.com:kaave/playground-slide.git
+[submodule "swagger"]
+	path = swagger
+	url = git@github.com:kaave/playground-swagger.git
